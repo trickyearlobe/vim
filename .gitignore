@@ -1,0 +1,7 @@
+plugin
+bundle
+autoload
+
+.netrwhist
+*.swp
+
